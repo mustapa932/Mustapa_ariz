@@ -5,5 +5,5 @@ Fitur kalkulator ini  ada operasi dasar matematika seperti penambahan, pengurang
 # Panduan Pengguna
 Eksekusi file index.html sesuai pathnya pada browser anda
 # Made By 
-Mustapa ariz, kelas XII RPL 2, SMK 1 Semparuk 
+Mustapa ariz, kelas XII RPL 1, SMK 1 Semparuk 
 
